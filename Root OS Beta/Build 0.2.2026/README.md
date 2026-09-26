@@ -3,3 +3,5 @@ A build 0.2.2026 Ã© o primeiro milestone em que o Root OS Beta deixa de ser um Ã
 QEMU: qemu-system-i386 -cdrom root_os_beta.iso -boot d
 
 <img width="721" height="466" alt="image" src="https://github.com/user-attachments/assets/d1840ba1-6808-4374-aa36-a26c30c669af" />
+
+OBS:. Esqueci de trocar o numero da Build!!!
