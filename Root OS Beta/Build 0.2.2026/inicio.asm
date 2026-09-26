@@ -244,7 +244,7 @@ erro:
     jmp .parado
 
 ; ============================== DADOS ===============================
-msg_boot:    db "Root OS Beta v0.1 Build 0.1.2026"
+msg_boot:    db "Root OS Beta v0.1 Build 0.1.2026" ; essa Build é a Build 0.2.2026!!!
 msg_boot_tam equ $ - msg_boot
 nome_nuc:    db "nucleo-0.2.2026"
 ; Derivado da string, e nao digitado a mao: assim o comprimento que o
