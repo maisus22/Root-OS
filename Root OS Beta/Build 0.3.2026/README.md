@@ -2,3 +2,4 @@ build 0.3.2026 era fazer o Root OS Beta abrir e mostrar o próprio nome na tela 
 
 QEMU: qemu-system-i386 -cdrom root_os_beta.iso -boot d
 
+<img width="645" height="542" alt="image" src="https://github.com/user-attachments/assets/ff827674-687a-438e-8700-8e7ada0ca820" />
